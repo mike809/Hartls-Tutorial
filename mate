@@ -1,0 +1,1 @@
+<%= @user.name %>, <%= @user.email %> app/views/users/show.html.erb
